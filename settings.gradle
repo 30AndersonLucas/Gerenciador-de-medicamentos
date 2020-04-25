@@ -1,0 +1,2 @@
+rootProject.name='Gerenciamento_de_ Medicamentos'
+include ':app'

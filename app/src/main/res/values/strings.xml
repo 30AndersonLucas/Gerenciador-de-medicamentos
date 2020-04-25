@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gerenciamento_de_ Medicamentos</string>
+    <string name="usuario">usuario</string>
+    <string name="password">Senha</string>
+    <string name="VOLTAR">voltar</string>
+    <string nome="paulo">conta</string>
+    <string name="senha">Senhap</string>
+    <string name = "and">confirmar senha</string>
+
+</resources>
